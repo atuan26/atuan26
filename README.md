@@ -1,6 +1,8 @@
+
+![snake animation](https://github.com/atuan26/atuan26/blob/output/github-contribution-grid-snake2.svg)
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tuan
 ============================================================================================================================
-
 Web Developer
 -------------
 
